@@ -5,7 +5,7 @@ gem 'rake'
 group :test do
   gem 'POpen4', '0.1.4'
   gem 'em-http-request', '1.0.3'
-  gem 'json', '1.4.3'
+  gem 'json', '1.5.5'
   gem 'jasmine', '1.0.2.1'
   gem 'jshintrb'
   gem 'therubyracer'
